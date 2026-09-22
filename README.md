@@ -4,7 +4,7 @@
 
 </div>
 
-## 📊 Статистика
+## Статистика
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧩 Языки
+## Языки
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📈 Активность
+## Активность
 
 <div align="center">
 
@@ -57,6 +57,6 @@
 
 ![Просмотры](https://komarev.com/ghpvc/?username=sneyri&label=Просмотры+профиля&color=7c3aed&style=flat-square)
 
-<sub>если всё работает — значит, пора что-нибудь сломать</sub>
+<sub>Мне 9 лет</sub>
 
 </div>
