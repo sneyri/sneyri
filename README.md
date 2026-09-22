@@ -1,18 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1800&pause=800&color=A970FF&center=true&vCenter=true&width=800&height=80&lines=SNEYR_;JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;PHP+%E2%80%A2+Git+%E2%80%A2+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=46&duration=650&pause=450&color=39FFB6&center=true&vCenter=true&repeat=true&width=900&height=110&lines=SNEYR_;SNE_R;SN3YR;SNEYR.exe;SNEYR_)](https://git.io/typing-svg)
 
 <br>
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
-![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111820?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-111820?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111820?style=for-the-badge&logo=css3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/PHP-111820?style=for-the-badge&logo=php&logoColor=777BB4)
+![Git](https://img.shields.io/badge/GIT-111820?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
-
----
 
 ## 📊 Статистика
 
