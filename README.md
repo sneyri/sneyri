@@ -50,13 +50,3 @@
 />
 
 </div>
-
----
-
-<div align="center">
-
-![Просмотры](https://komarev.com/ghpvc/?username=sneyri&label=Просмотры+профиля&color=7c3aed&style=flat-square)
-
-<sub>Мне 9 лет</sub>
-
-</div>
