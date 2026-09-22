@@ -1,16 +1,6 @@
 <div align="center">
 
-<h1>SNEYR</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&duration=1&pause=2500&color=39FFB6&center=true&vCenter=true&repeat=true&width=700&height=50&lines=JavaScript+%C2%B7+HTML+%C2%B7+CSS;PHP+%C2%B7+Git+%C2%B7+GitHub;JavaScript+%C2%B7+HTML+%C2%B7+CSS)](https://git.io/typing-svg)
-
-<br>
-
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111820?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111820?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111820?style=for-the-badge&logo=css3&logoColor=1572B6)
-![PHP](https://img.shields.io/badge/PHP-111820?style=for-the-badge&logo=php&logoColor=777BB4)
-![Git](https://img.shields.io/badge/GIT-111820?style=for-the-badge&logo=git&logoColor=F05032)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=46&duration=1000&pause=2500&color=39FFB6&center=true&vCenter=true&repeat=true&width=900&height=110&lines=SNEYR_;JavaScript+%C2%B7+HTML+%C2%B7+CSS;PHP+%C2%B7+Git+%C2%B7+GitHub;SNEYR_)](https://git.io/typing-svg)
 
 </div>
 
