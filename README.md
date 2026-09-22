@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=46&duration=650&pause=450&color=39FFB6&center=true&vCenter=true&repeat=true&width=900&height=110&lines=SNEYR_;SNE_R;SN3YR;SNEYR.exe;SNEYR_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=48&duration=650&pause=450&color=FF4D6D&center=true&vCenter=true&repeat=true&width=900&height=110&lines=SNEYR_;SNE_R;SN3YR;SNEYR.exe;SNEYR_)](https://git.io/typing-svg)
 
-<br>
+</div>
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111820?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-111820?style=for-the-badge&logo=html5&logoColor=E34F26)
