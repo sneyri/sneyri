@@ -11,9 +11,6 @@
 ### Проекты
 
 - **[BuildSense](https://github.com/sneyri/BuildSense)** — учебная САПР в браузере: дом в 2D и 3D, детали и сборки · [демо](https://sneyri.github.io/BuildSense/)
-- **[itd_studio_v2](https://github.com/sneyri/itd_studio_v2)** — аналитика аккаунта в ИТД: рост, аудитория, лучшее время для постов
-- **[Tankodrome](https://github.com/sneyri/Tankodrome)** — танковая аркада на Canvas с процедурными картами
-- **[ITD-Exam](https://github.com/sneyri/ITD-Exam)** — неофициальный экзамен по соцсети ИТД
 
 <br>
 
