@@ -1,52 +1,22 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=42&duration=1000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&height=110&lines=SNEYR_;JavaScript+%C2%B7+HTML+%C2%B7+CSS;PHP+%C2%B7+Git+%C2%B7+GitHub;SNEYR_)](https://git.io/typing-svg)
+<h1>sneyri</h1>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,postgres,threejs,git&theme=dark" alt="Python, JavaScript, TypeScript, React, Node.js, FastAPI, PostgreSQL, Three.js, Git">
 
 </div>
 
-## Статистика
+<br>
+
+### Проекты
+
+- **[BuildSense](https://github.com/sneyri/BuildSense)** — учебная САПР в браузере: дом в 2D и 3D, детали и сборки · [демо](https://sneyri.github.io/BuildSense/)
+- **[itd_studio_v2](https://github.com/sneyri/itd_studio_v2)** — аналитика аккаунта в ИТД: рост, аудитория, лучшее время для постов
+- **[Tankodrome](https://github.com/sneyri/Tankodrome)** — танковая аркада на Canvas с процедурными картами
+- **[ITD-Exam](https://github.com/sneyri/ITD-Exam)** — неофициальный экзамен по соцсети ИТД
+
+<br>
 
 <div align="center">
-
-<img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sneyri&theme=github_dark"
-    height="180"
-/>
-
-<img
-    src="https://streak-stats.demolab.com?user=sneyri&theme=github-dark-blue&hide_border=true&locale=ru"
-    height="180"
-/>
-
-</div>
-
----
-
-## Языки
-
-<div align="center">
-
-<img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sneyri&theme=github_dark"
-    height="180"
-/>
-
-<img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sneyri&theme=github_dark"
-    height="180"
-/>
-
-</div>
-
----
-
-## Активность
-
-<div align="center">
-
-<img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneyri&theme=github_dark"
-    width="90%"
-/>
-
+<sub><a href="https://t.me/SneyrIII">Telegram</a></sub>
 </div>
