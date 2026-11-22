@@ -1,69 +1,52 @@
 <div align="center">
 
-# sneyri
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=42&duration=1000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&height=110&lines=SNEYR_;JavaScript+%C2%B7+HTML+%C2%B7+CSS;PHP+%C2%B7+Git+%C2%B7+GitHub;SNEYR_)](https://git.io/typing-svg)
 
-**Game dev · Web**
+</div>
 
-<kbd>Python</kbd> <kbd>C++</kbd> <kbd>C#</kbd> <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Git</kbd>
+## Статистика
+
+<div align="center">
+
+<img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sneyri&theme=github_dark"
+    height="180"
+/>
+
+<img
+    src="https://streak-stats.demolab.com?user=sneyri&theme=github-dark-blue&hide_border=true&locale=ru"
+    height="180"
+/>
 
 </div>
 
 ---
 
-### 🎮 Обо мне
-
-Пишу код с 10 лет. Начинал с игр, сейчас всё больше в вебе, плюс колледж и много математики.
-
-- 🕹️ **Игры**: Unity, Roblox, Unreal Engine (C++), свой движок
-- 🌐 **Веб**: React, Next.js, Node.js, PostgreSQL
-- 🧮 **Математика**: люблю, и это не вынужденная любовь
-
----
-
-### 🚧 Сейчас в разработке
+## Языки
 
 <div align="center">
-<table>
-<tr>
-<td width="100%">
 
-**🐷 ITD Awards**
-*Сайт премии с админ-панелью*
+<img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sneyri&theme=github_dark"
+    height="180"
+/>
 
-| | |
-|---|---|
-| 🎨 | Редизайн админки: глитч/хакерская красная стилистика |
-| 🐷 | Маскот: свин-босс |
+<img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sneyri&theme=github_dark"
+    height="180"
+/>
 
-</td>
-</tr>
-</table>
 </div>
 
 ---
 
-### 🧰 Стек
-
-| | |
-|:--|:--|
-| 🧠 **Языки** | <kbd>Python</kbd> <kbd>C++</kbd> <kbd>C#</kbd> <kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>SQL</kbd> <kbd>Assembly</kbd> |
-| 🎮 **Game dev** | <kbd>Unity</kbd> <kbd>Unreal Engine</kbd> <kbd>Roblox</kbd> <kbd>свой движок</kbd> |
-| 🌐 **Frontend** | <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Three.js</kbd> |
-| ⚙️ **Backend** | <kbd>Node.js</kbd> <kbd>FastAPI</kbd> <kbd>PostgreSQL</kbd> |
-| 🔧 **Инструменты** | <kbd>Git</kbd> <kbd>GitHub</kbd> |
-
----
-
-### 📊 Статистика
-
-<!--STATS:START-->
-<!--STATS:END-->
-
-<!--LANGS:START-->
-<!--LANGS:END-->
-
----
+## Активность
 
 <div align="center">
-<sub>⭐ Ставь звёздочку, если что-то зашло</sub>
+
+<img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneyri&theme=github_dark"
+    width="90%"
+/>
+
 </div>
